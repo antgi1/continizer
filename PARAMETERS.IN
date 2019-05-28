@@ -1,0 +1,19 @@
+ LAST                    1.
+ NINTT                   0.
+ NLINF                   1.
+ NORDER                  2.
+ DOUSNQ                  1.
+ RUSER    10             0.
+ IUSER    10             4.
+ RUSER    23            -1.
+ RUSER    22            -1.
+ RUSER    21             1.
+ LUSER     3            -1.
+ GMNMX     1       %.1E
+ GMNMX     2       %.1E
+ IPLRES    2             3.
+ IPLFIT    2             3.
+ IFORMT
+ (F30.10)
+ IFORMY
+ (F30.10)
