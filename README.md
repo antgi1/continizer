@@ -14,7 +14,7 @@ A compiled version is provided in this reposity that might work for you if you h
 
 ## Functionality
 
-Drag and drop of files. Choose alpha value. Export result. Read values from screen.
+Drag and drop of files. Choose alpha value. Visualize input and output. Apply Siegert's relationship. Export result. Read values from screen.
 
 ## Supported data files
 
