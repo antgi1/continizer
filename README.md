@@ -22,7 +22,7 @@ Formats currently supported include data from:
  * LSI 3dDLS
  * ALV setups (ascii and binary)
  * Correlator.com
- * Two column files with no header. (tau andcorrelation)
+ * Two column files with no header. (tau and correlation)
  
 ## Setting your F-star
 
